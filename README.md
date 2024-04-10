@@ -15,7 +15,9 @@ The code is written in Java (Eclipse project) and requires the following library
 
 This will run the code on the image depicted on <b>Figure 6</b> of the paper and output a hierarchical order on an enriched set of values.
 
-The `bpt_labels_fig6.dot` has been built as described in the <b>Section 5.2: Ordering the enriched value set</b> of the paper. 
+The `bpt_labels_fig6.dot` has been built as described in the <b>Section 5.2: Ordering the enriched value set</b> of the paper.
+
+See <a href="https://github.com/bnaegel/multivalued_component_tree.git" target="_blank">multivalued_component_tree</a> to see the usefulness of such hierarchical ordered set.
 
 The hierarchical ordered set can be visualized using for example the command:
 ```bash
