@@ -13,7 +13,7 @@ import utils.Log;
 import utils.SaveBPT;
 
 /**
- * XP on the example 2 of the paper - MCT - RFIAP24 - ICPR24
+ * XP on the example 2 of the paper *New algorithms for multivalued component-trees* by Nicolas Passat, Romain Perrin, Jimmy Francky Randrianasoa, Camille Kurtz, and Benoît Naegel. 
  * 1- Prepare values
  * 2- Generate image
  * 3- Build a BPTVC (BPTValue Set using Cooccurrence Matrix
