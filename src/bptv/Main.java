@@ -91,7 +91,7 @@ public class Main {
 		 * ************************************************************************************/
 		System.out.println("## Step-4: Export to DOT format ##");
 		bptvc.setDirectory(".");
-		bptvc.setName("labels_fig6.dot");
+		bptvc.setName("bpt_labels_fig6.dot");
 		SaveBPT.toDOT(bptvc);
 		System.out.println("BPTVC exportation: "+ bptvc.getDirectory() + File.separator + bptvc.getName());
 		System.out.println("BPTVC exportation: SUCCESS \n");
